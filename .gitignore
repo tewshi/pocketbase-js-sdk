@@ -12,3 +12,6 @@ package-lock.json
 README.html
 CHANGELOG.html
 LICENSE.html
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
